@@ -1,0 +1,33 @@
+{
+  "name": "bigwheelexample",
+  "version": "1.0.0",
+  "description": "Just a quick example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MikkoH/bigwheelexample.git"
+  },
+  "keywords": [
+    "big",
+    "wheel",
+    "example",
+    "site"
+  ],
+  "author": "Mikko Haapoja <me@mikkoh.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MikkoH/bigwheelexample/issues"
+  },
+  "homepage": "https://github.com/MikkoH/bigwheelexample",
+  "dependencies": {
+    "bigwheel": "git://github.com/mikkoh/bigwheel",
+    "brfs": "^1.2.0",
+    "bw-boilersection": "git://github.com/mikkoh/bw-boilersection",
+    "bw-handlebars": "git://github.com/mikkoh/bw-handlebars",
+    "bw-objmodel": "git://github.com/mikkoh/bw-objmodel",
+    "bw-writedom": "git://github.com/mikkoh/bw-writedom"
+  }
+}

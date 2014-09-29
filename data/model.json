@@ -1,0 +1,19 @@
+{
+	"landing": {
+
+		"title": "LANDING",
+		"content": "This is some content"
+	},
+
+	"about": {
+
+		"title": "ABOUT",
+		"content": "This is some content"
+	},
+
+	"contact": {
+
+		"title": "CONTACT",
+		"content": "This is some content"
+	}
+}

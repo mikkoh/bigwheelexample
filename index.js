@@ -10,7 +10,7 @@ var MODEL_DATA = JSON.parse( fs.readFileSync( './data/model.json', 'utf8' ) ),
 	TEMPLATE_BASIC = fs.readFileSync( './data/basicPage.hbs', 'utf8' ),
 	model = bwmodel( MODEL_DATA ),
 	handlebars = bwhandlebars( TEMPLATE_BASIC ),
-	writebody = bwwritedom( 'body' )
+	writebody = bwwritedom( 'body' ),
 	section = bwboiler();
 
 var framework = bigwheel( {

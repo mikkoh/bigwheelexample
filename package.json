@@ -28,6 +28,7 @@
     "bw-boilersection": "git://github.com/mikkoh/bw-boilersection",
     "bw-handlebars": "git://github.com/mikkoh/bw-handlebars",
     "bw-objmodel": "git://github.com/mikkoh/bw-objmodel",
-    "bw-writedom": "git://github.com/mikkoh/bw-writedom"
+    "bw-writedom": "git://github.com/mikkoh/bw-writedom",
+    "handlebars": "^2.0.0"
   }
 }
